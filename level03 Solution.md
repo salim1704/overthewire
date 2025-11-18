@@ -1,5 +1,5 @@
 # Username 
-bandit03
+bandit3
 
 # Password
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
