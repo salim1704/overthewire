@@ -1,6 +1,6 @@
 # Username
 
-bandit01
+bandit1
 
 # Password
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
